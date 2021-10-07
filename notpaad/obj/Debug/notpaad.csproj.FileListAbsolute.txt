@@ -1,0 +1,20 @@
+E:\Study\ITI\C#\Notpad\notpaad\bin\Debug\notpaad.exe.config
+E:\Study\ITI\C#\Notpad\notpaad\bin\Debug\notpaad.exe
+E:\Study\ITI\C#\Notpad\notpaad\bin\Debug\notpaad.pdb
+E:\Study\ITI\C#\Notpad\notpaad\obj\Debug\notpaad.csprojAssemblyReference.cache
+E:\Study\ITI\C#\Notpad\notpaad\obj\Debug\notpaad.Form1.resources
+E:\Study\ITI\C#\Notpad\notpaad\obj\Debug\notpaad.Properties.Resources.resources
+E:\Study\ITI\C#\Notpad\notpaad\obj\Debug\notpaad.csproj.GenerateResource.cache
+E:\Study\ITI\C#\Notpad\notpaad\obj\Debug\notpaad.csproj.CoreCompileInputs.cache
+E:\Study\ITI\C#\Notpad\notpaad\obj\Debug\notpaad.exe
+E:\Study\ITI\C#\Notpad\notpaad\obj\Debug\notpaad.pdb
+D:\ITI Tasks\okail\ITI\C#\Notpad\notpaad\bin\Debug\notpaad.exe.config
+D:\ITI Tasks\okail\ITI\C#\Notpad\notpaad\bin\Debug\notpaad.exe
+D:\ITI Tasks\okail\ITI\C#\Notpad\notpaad\bin\Debug\notpaad.pdb
+D:\ITI Tasks\okail\ITI\C#\Notpad\notpaad\obj\Debug\notpaad.csproj.AssemblyReference.cache
+D:\ITI Tasks\okail\ITI\C#\Notpad\notpaad\obj\Debug\notpaad.Form1.resources
+D:\ITI Tasks\okail\ITI\C#\Notpad\notpaad\obj\Debug\notpaad.Properties.Resources.resources
+D:\ITI Tasks\okail\ITI\C#\Notpad\notpaad\obj\Debug\notpaad.csproj.GenerateResource.cache
+D:\ITI Tasks\okail\ITI\C#\Notpad\notpaad\obj\Debug\notpaad.csproj.CoreCompileInputs.cache
+D:\ITI Tasks\okail\ITI\C#\Notpad\notpaad\obj\Debug\notpaad.exe
+D:\ITI Tasks\okail\ITI\C#\Notpad\notpaad\obj\Debug\notpaad.pdb
